@@ -4,4 +4,4 @@
 
 ## 一个屏幕取色器，同时在颜色库中找到最相近的颜色名字，同时推荐搭配颜色
 
-<img src = "/color.png"></img>
+<img src = "\color.png"></img>
